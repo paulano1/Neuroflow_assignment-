@@ -1,7 +1,7 @@
 # Neuroflow_assignment-
 **Why not use react**
 
-I tried not use any libraries in the code to show my competence with javascript and making it as simple as possible. 
+I tried not to use any libraries in the code to show my competence with javascript and making it as simple as possible. 
 That is the reason I decided to use just html and js to complete the assignment and added a bit of styling with CSS.
 **To run the application**
 1. download all the files
