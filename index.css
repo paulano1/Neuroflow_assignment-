@@ -1,0 +1,19 @@
+table
+{
+    width: 100%;
+}
+
+tr:nth-child(1)
+{
+    background: gray;
+}
+
+tr:nth-child(2n)
+{
+    background: lightgray;
+}
+
+tr, td
+{
+    border: 1px solid black;
+}
